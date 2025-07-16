@@ -64,3 +64,7 @@ Tentu! Berikut versi yang telah diperbaiki tampilannya agar **lebih profesional,
 
 > I combine real-world AI engineering practices with strong curriculum-building skills.  
 > I’m passionate about making AI **accessible, explainable, and practical** – especially in the Indonesian education space.
+
+### 📊 GitHub Summary Cards
+![](https://raw.githubusercontent.com/mfikryrz/mfikryrz/main/profile-summary-card-output/buefy/0-profile-details.svg)
+![](https://raw.githubusercontent.com/mfikryrz/mfikryrz/main/profile-summary-card-output/buefy/1-repos-per-language.svg)![](https://raw.githubusercontent.com/mfikryrz/mfikryrz/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
