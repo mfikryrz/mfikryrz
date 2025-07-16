@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fikry Rizal</h1>
 <h3 align="center"> AI Engineer | Curriculum Developer at Dicoding | ML & LLM Enthusiast</h3>
 
-- 🔭 I’m currently working on [LLM-based Education App](https://github.com/mfikryrz/llm-exercise)
+- 🔭 I’m currently working on [LLM-based Education App](https://llm-python-learn.streamlit.app/)
 
 - 🌱 I’m currently learning **RAG, Langchain, LoRA, HuggingFace Spaces**
 
