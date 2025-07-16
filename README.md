@@ -24,11 +24,6 @@
 ---
 
 ### 📚 Certifications & Highlights
-Tentu! Berikut versi yang telah diperbaiki tampilannya agar **lebih profesional, rapi, dan mudah dibaca**, serta sudah disiapkan ruang untuk menambahkan **tautan ke masing-masing sertifikat** jika kamu punya:
-
----
-
-### 📚 Certifications & Highlights
 
 * 🥇 [Certificate of Competence for Associate Data Scientist – BNSP](https://drive.google.com/drive/folders/1XFdhDlvctRrF5XJ_HDN8p5HBXcpicQTB?usp=sharing)
   *Issued by Badan Nasional Sertifikasi Profesi (BNSP)*
