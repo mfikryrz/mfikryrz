@@ -3,10 +3,13 @@
 
 - 🔭 I’m currently working on [LLM-based Education App](https://llm-python-learn.streamlit.app/)
 
-- 🌱 I’m currently learning **RAG, Langchain, LoRA, HuggingFace Spaces**
+- 🧠 I’m an expert in:
+  - **RAG, Langchain, LoRA, HuggingFace Spaces**
+  - **Deep Learning, MLOps, Machine Learning**
+  - **Recommender Systems, Model Deployment**
 
-- 💬 Ask me about **machine learning, deployment, and model evaluation**
-
+- 💬 Ask me about **machine learning, deployment strategies, or curriculum design**
+  
 - 📫 Reach me at: **muh.fikryrizal@gmail.com**
 
 - 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1xNy9q426PBfJaFQRNd3pz0_rPx66oRId/view?usp=sharing)
