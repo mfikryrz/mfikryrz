@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **machine learning, deployment, and model evaluation**
 
-- 📫 Reach me at: **rizal@dicoding.com** | **Muh.fikryrizal@gmail.com**
+- 📫 Reach me at: **muh.fikryrizal@gmail.com**
 
 - 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1xNy9q426PBfJaFQRNd3pz0_rPx66oRId/view?usp=sharing)
 
