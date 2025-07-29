@@ -16,16 +16,34 @@
 
 ---
 
-### 📌 Top Repo Projects
+### 📌 Top Repo Projects by Theme
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [llm-chatbot-learning-python](https://github.com/mfikryrz/llm-chatbot-learning-python) | LLM-powered tutor app using RAG to help students learn Python via interactive Q&A. | LangChain, Groq, FAISS, Streamlit |
-| [llm-rag-finetuning](https://github.com/mfikryrz/llm-rag-finetuning) | Combining fine-tuning + retrieval-augmented generation for domain-specific LLM use cases. | HuggingFace, LoRA, PEFT |
-| [llm-misconception-classifier](https://github.com/mfikryrz/llm-misconception-classifier) | A LoRA-fine-tuned model to detect misconceptions in student math answers. | Transformers, LoRA, Math QA |
-| [transformer_projects](https://github.com/mfikryrz/transformer_projects) | Explorations with transformer models for various NLP and vision tasks in Jupyter notebooks. | PyTorch, HuggingFace, NLTK |
-| [mlop_project](https://github.com/mfikryrz/mlop_project) | Template for ML pipeline automation including training, evaluation, CI/CD and deployment. | MLflow, DVC, Docker |
-| [forest_fire_prediction](https://github.com/mfikryrz/forest_fire_prediction) | This project aims to predict forest fire extent based on various environmental and weather parameters.| Scikit-learn, pandas, numpy, matplotlib |
+#### 🧠 LLM & Generative AI
+
+| Project                                                                                  | Description                                                                               | Stack                             |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------- |
+| [llm-chatbot-learning-python](https://github.com/mfikryrz/llm-chatbot-learning-python)   | LLM-powered tutor app using RAG to help students learn Python via interactive Q\&A.       | LangChain, Groq, FAISS, Streamlit |
+| [llm-rag-finetuning](https://github.com/mfikryrz/llm-rag-finetuning)                     | Combining fine-tuning + retrieval-augmented generation for domain-specific LLM use cases. | HuggingFace, LoRA, PEFT           |
+| [llm-misconception-classifier](https://github.com/mfikryrz/llm-misconception-classifier) | A LoRA-fine-tuned model to detect misconceptions in student math answers.                 | Transformers, LoRA, Math QA       |
+| [transformer\_projects](https://github.com/mfikryrz/transformer_projects) | Transformer-based models for various NLP/vision tasks in notebooks. | PyTorch, HuggingFace, NLTK |
+
+
+#### 📊 Classical Machine Learning & Data Engineering
+
+| Project                                                                        | Description                                                           | Stack                                   |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------- |
+| [forest\_fire\_prediction](https://github.com/mfikryrz/forest_fire_prediction) | Predicts forest fire extent using environmental and weather features. | Scikit-learn, pandas, numpy, matplotlib |
+| [Data-Science-in-Telco-Data-Cleansing](https://github.com/mfikryrz/Data-Science-in-Telco-Data-Cleansing) | his project focuses on cleaning customer data of a telecommunications company (Telco) as the initial stage of the data science process. | Scikit-learn, pandas, numpy, matplotlib |
+| [Data-Cleaning-Fixing](https://github.com/mfikryrz/Data-Cleaning-Fixing) | This project focuses on exploring, cleaning, and handling unclean data in real-world scenarios. | pandas, numpy |
+| [forest_fire_prediction](https://github.com/mfikryrz/forest_fire_prediction) | This project aims to predict the extent of forest fires based on various environmental and weather parameters. | TensorFlow / Keras, pandas, numpy, seaborn, matplotlib  |
+
+#### ⚙️ MLOps & Pipeline Automation
+
+| Project                                                   | Description                                                              | Stack               |
+| --------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------- |
+| [mlop\_project](https://github.com/mfikryrz/mlop_project) | End-to-end ML pipeline with training, evaluation, CI/CD, and deployment. | MLflow, DVC, Docker |
+| [networksecurity](https://github.com/mfikryrz/networksecurity) | This project implements a complete MLOps pipeline for detecting phishing websites using structured URL-based features. | GitHub Actions, AWS, MongoDB, MLflow, DVC, Docker |
+
 
 ---
 ### 🛠️ Languages and Tools
