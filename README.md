@@ -12,7 +12,7 @@
   
 - 📫 Reach me at: **muh.fikryrizal@gmail.com**
 
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1xNy9q426PBfJaFQRNd3pz0_rPx66oRId/view?usp=sharing)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1MOEGk4Ds6i52cKRWNeLR6wWXFI7urF4C/view?usp=sharing)
 
 ---
 
@@ -24,8 +24,8 @@
 | [llm-rag-finetuning](https://github.com/mfikryrz/llm-rag-finetuning) | Combining fine-tuning + retrieval-augmented generation for domain-specific LLM use cases. | HuggingFace, LoRA, PEFT |
 | [llm-misconception-classifier](https://github.com/mfikryrz/llm-misconception-classifier) | A LoRA-fine-tuned model to detect misconceptions in student math answers. | Transformers, LoRA, Math QA |
 | [transformer_projects](https://github.com/mfikryrz/transformer_projects) | Explorations with transformer models for various NLP and vision tasks in Jupyter notebooks. | PyTorch, HuggingFace, NLTK |
-| [mlops-template](https://github.com/chainrooks/mlops-template) | Template for ML pipeline automation including training, evaluation, CI/CD and deployment. | MLflow, DVC, Docker |
-| [recommender-pipeline](https://github.com/chainrooks/recommender-pipeline) | Building modular recommender systems for e-commerce scenarios. | Scikit-learn, Surprise, Streamlit |
+| [mlop_project](https://github.com/mfikryrz/mlop_project) | Template for ML pipeline automation including training, evaluation, CI/CD and deployment. | MLflow, DVC, Docker |
+| [forest_fire_prediction](https://github.com/mfikryrz/forest_fire_prediction) | This project aims to predict forest fire extent based on various environmental and weather parameters.| Scikit-learn, pandas, numpy, matplotlib |
 
 ---
 ### 🛠️ Languages and Tools
