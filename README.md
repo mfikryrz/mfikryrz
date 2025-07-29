@@ -16,6 +16,18 @@
 
 ---
 
+### 📌 Top Repo Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [llm-chatbot-learning-python](https://github.com/mfikryrz/llm-chatbot-learning-python) | LLM-powered tutor app using RAG to help students learn Python via interactive Q&A. | LangChain, Groq, FAISS, Streamlit |
+| [llm-rag-finetuning](https://github.com/mfikryrz/llm-rag-finetuning) | Combining fine-tuning + retrieval-augmented generation for domain-specific LLM use cases. | HuggingFace, LoRA, PEFT |
+| [llm-misconception-classifier](https://github.com/mfikryrz/llm-misconception-classifier) | A LoRA-fine-tuned model to detect misconceptions in student math answers. | Transformers, LoRA, Math QA |
+| [transformer_projects](https://github.com/mfikryrz/transformer_projects) | Explorations with transformer models for various NLP and vision tasks in Jupyter notebooks. | PyTorch, HuggingFace, NLTK |
+| [mlops-template](https://github.com/chainrooks/mlops-template) | Template for ML pipeline automation including training, evaluation, CI/CD and deployment. | MLflow, DVC, Docker |
+| [recommender-pipeline](https://github.com/chainrooks/recommender-pipeline) | Building modular recommender systems for e-commerce scenarios. | Scikit-learn, Surprise, Streamlit |
+
+---
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,docker,linux,git,github,vscode,blender" />
