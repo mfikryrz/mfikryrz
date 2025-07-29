@@ -32,7 +32,6 @@
 
 | Project                                                                        | Description                                                           | Stack                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------- |
-| [forest\_fire\_prediction](https://github.com/mfikryrz/forest_fire_prediction) | Predicts forest fire extent using environmental and weather features. | Scikit-learn, pandas, numpy, matplotlib |
 | [Data-Science-in-Telco-Data-Cleansing](https://github.com/mfikryrz/Data-Science-in-Telco-Data-Cleansing) | his project focuses on cleaning customer data of a telecommunications company (Telco) as the initial stage of the data science process. | Scikit-learn, pandas, numpy, matplotlib |
 | [Data-Cleaning-Fixing](https://github.com/mfikryrz/Data-Cleaning-Fixing) | This project focuses on exploring, cleaning, and handling unclean data in real-world scenarios. | pandas, numpy |
 | [forest_fire_prediction](https://github.com/mfikryrz/forest_fire_prediction) | This project aims to predict the extent of forest fires based on various environmental and weather parameters. | TensorFlow / Keras, pandas, numpy, seaborn, matplotlib  |
