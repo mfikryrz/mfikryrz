@@ -33,7 +33,7 @@
 | Project                                                                        | Description                                                           | Stack                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------- |
 | [bicycle_rent_analysis](https://github.com/mfikryrz/bicycle_rent_analysis) | This project is an interactive data analysis dashboard built with Streamlit. It visualizes and explores patterns in a bike rental dataset, helping users understand trends in rentals based on hour, month, weather, and season. | streamlit, pandas, numpy, matplotlib, seaborn |
-| [Data-Science-in-Telco-Data-Cleansing](https://github.com/mfikryrz/Data-Science-in-Telco-Data-Cleansing) | his project focuses on cleaning customer data of a telecommunications company (Telco) as the initial stage of the data science process. | Scikit-learn, pandas, numpy, matplotlib |
+| [Data-Covid-19-world-and-asean](https://github.com/mfikryrz/Data-Covid-19-world-and-asean) | This project presents an exploratory data analysis (EDA) of the global COVID-19 pandemic with a focused lens on ASEAN countries. | Scikit-learn, pandas, numpy, matplotlib |
 | [Data-Cleaning-Fixing](https://github.com/mfikryrz/Data-Cleaning-Fixing) | This project focuses on exploring, cleaning, and handling unclean data in real-world scenarios. | pandas, numpy |
 | [forest_fire_prediction](https://github.com/mfikryrz/forest_fire_prediction) | This project aims to predict the extent of forest fires based on various environmental and weather parameters. | TensorFlow / Keras, pandas, numpy, seaborn, matplotlib  |
 
