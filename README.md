@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fikry Rizal</h1>
-<h3 align="center"> AI Engineer | Curriculum Developer at Dicoding | ML & LLM Enthusiast</h3>
+<h3 align="center">AI Engineer | LLM Engineer | ML & GenAI Enthusiast</h3>
 
-- 🔭 I’m currently working on [LLM-based Education App](https://llm-python-learn.streamlit.app/)
+- 🔭 I’m currently building portfolio projects for **production GenAI & ops analytics**:
+  - [chatbot_assistance](https://github.com/mfikryrz/chatbot_assistance) — RAG ops chatbot (LangGraph + Milvus + ChatGroq)
+  - [alerts_correlation](https://github.com/mfikryrz/alerts_correlation) — hybrid alert correlation pipeline (Kafka + Timescale + HDBSCAN + LLM)
 
 - 🧠 I’m an expert in:
   - **RAG, Langchain, LoRA, HuggingFace Spaces**
@@ -17,6 +19,13 @@
 ---
 
 ### 📌 Top Repo Projects by Theme
+
+#### ⭐ Featured Portfolio (GenAI / Ops)
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [chatbot_assistance](https://github.com/mfikryrz/chatbot_assistance) | RAG-powered **Ops Assistance Chatbot** — classify → Milvus retrieval → cited LLM answer with follow-up over synthetic runbooks/tickets. | LangGraph, LangChain, Milvus, ChatGroq, FastAPI, Streamlit, Docker |
+| [alerts_correlation](https://github.com/mfikryrz/alerts_correlation) | **Hybrid Alert Correlation Pipeline** — Zabbix-like ingest via Telegraf → Kafka/Timescale → HDBSCAN clustering → ticket enrichment (`rc_analysis`, `recom_action`) via LLM. | Telegraf, Kafka, TimescaleDB, Milvus, HDBSCAN, ChatGroq, FastAPI, Docker |
 
 #### 🧠 LLM & Generative AI
 
@@ -84,7 +93,8 @@
 - ✅ **LLMs & NLP:** Langchain, RAG, LoRA, Hugging Face, Transformers  
 - ✅ **MLOps & Deployment:** FastAPI, Docker, GitHub Actions, Streamlit, Hugging Face Hub  
 - ✅ **Frontend & Prototyping:** React.js, Vite, TailwindCSS, Streamlit  
-- ✅ **Vector DBs & Retrieval:** FAISS, ChromaDB, Ollama, Sentence Transformers  
+- ✅ **Vector DBs & Retrieval:** Milvus, FAISS, ChromaDB, Sentence Transformers  
+- ✅ **Streaming & Ops:** Kafka, Telegraf, TimescaleDB, Zabbix-style monitoring pipelines  
 
 ---
 
