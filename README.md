@@ -14,7 +14,7 @@
   
 - 📫 Reach me at: **muh.fikryrizal@gmail.com**
 
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1MOEGk4Ds6i52cKRWNeLR6wWXFI7urF4C/view?usp=sharing)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/drive/folders/13GLv__5izfUMyVru-kWljONahnLafS0J?usp=sharing)
 
 ---
 
